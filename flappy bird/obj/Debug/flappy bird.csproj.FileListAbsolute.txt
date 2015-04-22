@@ -1,0 +1,12 @@
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\bin\Debug\flappy bird.exe
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\bin\Debug\flappy bird.pdb
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Form1.resources
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy bird.exe
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy bird.pdb
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Form2.resources
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Form3.resources
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Form4.resources
+c:\users\mohammadumair\documents\visual studio 2012\Projects\flappy bird\flappy bird\obj\Debug\flappy_bird.Form5.resources
